@@ -1,0 +1,6 @@
+.array-bar{
+    display: flex;
+    width: 10px;
+    background-color: black;
+    color: yellow;
+}
