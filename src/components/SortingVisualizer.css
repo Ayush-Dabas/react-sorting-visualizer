@@ -1,6 +1,14 @@
+.array-container{
+    display: flex;
+    margin: 5px 5px;
+}
+
 .array-bar{
     display: flex;
-    width: 10px;
+    width: 2px;
+    color: blue;
     background-color: black;
-    color: yellow;
+    margin: 5px 5px;
+    padding: 1px;
+    justify-content: space-evenly;
 }
